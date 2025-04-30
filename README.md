@@ -11,12 +11,12 @@ Para executar os exercícios, você precisará ter o [Node.js](https://nodejs.or
 1.  Clone este repositório para sua máquina local:
 
     ```bash
-    git clone <URL_DO_REPOSITÓRIO>
+    git clone https://github.com/gonzaga95/js-maisprati-lista1
     ```
 2.  Navegue até o diretório do exercício que você deseja executar:
 
     ```bash
-    cd js-lista-1-exercicios/exercicio-N
+    cd js-maisprati-lista1/exercicio-N
     ```
 
     (Substitua `N` pelo número do exercício, ex: `exercicio-1`, `exercicio-2`, etc.)
